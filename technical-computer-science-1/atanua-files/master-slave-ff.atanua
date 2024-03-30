@@ -1,0 +1,235 @@
+<?xml version="1.0" ?>
+<Atanua Version="Atanua/Win32 1.2.130617 - Classroom License, Duale Hochschule Baden-Wuerttemberg Loerrach" ChipCount="118" WireCount="114" key="710402" scale="16">
+    <Chip Name="logic NOT (fi)" xpos="2260992" ypos="1835008" rot="0" key="1110490" />
+    <Chip Name="logic AND (fi)" xpos="2686976" ypos="1802240" rot="0" key="1110490" />
+    <Chip Name="logic AND (fi)" xpos="2686976" ypos="2555904" rot="0" key="1110490" />
+    <Chip Name="logic NOT (fi)" xpos="2228224" ypos="2523136" rot="0" key="1110490" />
+    <Chip Name="logic AND (fi)" xpos="3112960" ypos="1835008" rot="0" key="1110490" />
+    <Chip Name="logic AND (fi)" xpos="3112960" ypos="2523136" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="2588672" ypos="2785280" rot="0" key="1110490" />
+    <Chip Name="logic NOR (fi)" xpos="3670016" ypos="1933312" rot="0" key="1110490" />
+    <Chip Name="logic NOR (fi)" xpos="3670016" ypos="2424832" rot="0" key="1110490" />
+    <Chip Name="LED (green)" xpos="2981888" ypos="1605632" rot="0" key="1110490" />
+    <Chip Name="logic NOT (fi)" xpos="1933312" ypos="2523136" rot="0" key="1110490" />
+    <Chip Name="logic NOT (fi)" xpos="1605632" ypos="2523136" rot="0" key="1110490" />
+    <Chip Name="logic NOT (fi)" xpos="1966080" ypos="1835008" rot="0" key="1110490" />
+    <Chip Name="logic NOT (fi)" xpos="1638400" ypos="1835008" rot="0" key="1110490" />
+    <Chip Name="Clock 0.2Hz" xpos="1146880" ypos="2129920" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="1474560" ypos="1638400" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="1474560" ypos="2785280" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="1474560" ypos="1867776" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="1474560" ypos="2555904" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="1474560" ypos="2555904" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="2588672" ypos="2621440" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="2588672" ypos="1638400" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="2588672" ypos="1802240" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="3964928" ypos="2097152" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="3571712" ypos="2424832" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="3571712" ypos="2293760" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="3571712" ypos="1998848" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="3571712" ypos="2129920" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="3964928" ypos="2457600" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="3964928" ypos="2293760" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="3440640" ypos="2555904" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="3407872" ypos="2490368" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="3407872" ypos="1867776" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="3440640" ypos="1933312" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="2981888" ypos="1835008" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="1474560" ypos="2228224" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="2981888" ypos="2392064" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="2981888" ypos="2523136" rot="0" key="1110490" />
+    <Chip Name="Label (2pt)" xpos="1343488" ypos="1179648" rot="0" key="1110490">01FFFFFE000000184A4B2D464620287374656967656E646520466C616E6B6529</Chip>
+    <Chip Name="logic AND (fi)" xpos="851968" ypos="1736704" rot="0" key="1110490" />
+    <Chip Name="logic AND (fi)" xpos="884736" ypos="2621440" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="3014656" ypos="2031616" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="3014656" ypos="1900544" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="1179648" ypos="2031616" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="1179648" ypos="1769472" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="1179648" ypos="2392064" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="1179648" ypos="2654208" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="720896" ypos="2850816" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="720896" ypos="2686976" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="720896" ypos="1540096" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="720896" ypos="1736704" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="3964928" ypos="1540096" rot="0" key="1110490" />
+    <Chip Name="button (&apos;j&apos;)" xpos="294912" ypos="1572864" rot="0" key="1110490" />
+    <Chip Name="button (&apos;k&apos;)" xpos="262144" ypos="2359296" rot="0" key="1110490" />
+    <Chip Name="Connection Pin" xpos="4161536" ypos="2850816" rot="0" key="1110490" />
+    <Chip Name="LED (yellow)" xpos="884736" ypos="2064384" rot="0" key="1086750" />
+    <Chip Name="Connection Pin" xpos="884736" ypos="2228224" rot="0" key="1085282" />
+    <Chip Name="Connection Pin" xpos="294912" ypos="2621440" rot="0" key="1090165" />
+    <Chip Name="Connection Pin" xpos="327680" ypos="1802240" rot="0" key="1067357" />
+    <Chip Name="Label (1pt)" xpos="4161536" ypos="1212416" rot="0" key="421703">00FFFFFF00000003736574</Chip>
+    <Chip Name="Label (1pt)" xpos="4423680" ypos="1212416" rot="0" key="409423">00FFFFFF000000057265736574</Chip>
+    <Chip Name="Label (1pt)" xpos="4259840" ypos="1081344" rot="0" key="514793">00FFFFFF000000064F7574707574</Chip>
+    <Chip Name="Label (1pt)" xpos="3538944" ypos="1900544" rot="0" key="93789">00FFFFFF0000000152</Chip>
+    <Chip Name="Label (1pt)" xpos="3538944" ypos="2457600" rot="0" key="76433">00FFFFFF0000000153</Chip>
+    <Chip Name="Label (1pt)" xpos="3899392" ypos="1900544" rot="0" key="453843">00FFFFFF0000000151</Chip>
+    <Chip Name="Label (1pt)" xpos="3899392" ypos="2392064" rot="0" key="428520">00FFFFFF000000022F51</Chip>
+    <Chip Name="Connection Pin" xpos="4456448" ypos="1540096" rot="0" key="409503" />
+    <Chip Name="Connection Pin" xpos="4456448" ypos="2457600" rot="0" key="495636" />
+    <Chip Name="LED (green)" xpos="4161536" ypos="1310720" rot="0" key="502155" />
+    <Chip Name="LED (red)" xpos="4456448" ypos="1310720" rot="0" key="481354" />
+    <Chip Name="Connection Pin" xpos="4161536" ypos="1966080" rot="0" key="303791" />
+    <Chip Name="Connection Pin" xpos="3964928" ypos="1966080" rot="0" key="283192" />
+    <Chip Name="logic AND (fi)" xpos="4653056" ypos="1802240" rot="0" key="670653" />
+    <Chip Name="logic AND (fi)" xpos="4685824" ypos="2588672" rot="0" key="775189" />
+    <Chip Name="logic NOT (fi)" xpos="5177344" ypos="1802240" rot="0" key="743258" />
+    <Chip Name="logic NOT (fi)" xpos="5537792" ypos="1802240" rot="0" key="739368" />
+    <Chip Name="logic NOT (fi)" xpos="5898240" ypos="1802240" rot="0" key="752077" />
+    <Chip Name="logic NOT (fi)" xpos="5177344" ypos="2588672" rot="0" key="747591" />
+    <Chip Name="logic NOT (fi)" xpos="5505024" ypos="2588672" rot="0" key="727208" />
+    <Chip Name="logic NOT (fi)" xpos="5865472" ypos="2588672" rot="0" key="723970" />
+    <Chip Name="logic NOT (fi)" xpos="4915200" ypos="2195456" rot="0" key="731183" />
+    <Chip Name="logic AND (fi)" xpos="6258688" ypos="1736704" rot="0" key="575226" />
+    <Chip Name="logic AND (fi)" xpos="6225920" ypos="2686976" rot="0" key="583601" />
+    <Chip Name="Connection Pin" xpos="6094848" ypos="1605632" rot="0" key="653799" />
+    <Chip Name="Connection Pin" xpos="5144576" ypos="1605632" rot="0" key="649819" />
+    <Chip Name="Connection Pin" xpos="6062080" ypos="2883584" rot="0" key="632161" />
+    <Chip Name="Connection Pin" xpos="5144576" ypos="2883584" rot="0" key="611993" />
+    <Chip Name="LED (green)" xpos="6455296" ypos="1605632" rot="0" key="602092" />
+    <Chip Name="logic AND (fi)" xpos="6684672" ypos="1736704" rot="0" key="933293" />
+    <Chip Name="logic AND (fi)" xpos="6651904" ypos="2719744" rot="0" key="928331" />
+    <Chip Name="logic NOR (fi)" xpos="7405568" ypos="2129920" rot="0" key="1033341" />
+    <Chip Name="logic NOR (fi)" xpos="7372800" ypos="2523136" rot="0" key="1044228" />
+    <Chip Name="Connection Pin" xpos="6520832" ypos="1998848" rot="0" key="985561" />
+    <Chip Name="Connection Pin" xpos="4947968" ypos="1998848" rot="0" key="995511" />
+    <Chip Name="Connection Pin" xpos="6422528" ypos="2981888" rot="0" key="825144" />
+    <Chip Name="Connection Pin" xpos="4915200" ypos="2981888" rot="0" key="835130" />
+    <Chip Name="Connection Pin" xpos="6422528" ypos="1507328" rot="0" key="794337" />
+    <Chip Name="Connection Pin" xpos="4882432" ypos="1507328" rot="0" key="800684" />
+    <Chip Name="Connection Pin" xpos="4653056" ypos="1441792" rot="0" key="866526" />
+    <Chip Name="Connection Pin" xpos="7962624" ypos="1441792" rot="0" key="185416" />
+    <Chip Name="Connection Pin" xpos="7962624" ypos="2555904" rot="0" key="180527" />
+    <Chip Name="Connection Pin" xpos="7864320" ypos="2162688" rot="0" key="192260" />
+    <Chip Name="Connection Pin" xpos="7864320" ypos="3112960" rot="0" key="170451" />
+    <Chip Name="Connection Pin" xpos="4653056" ypos="3112960" rot="0" key="179962" />
+    <Chip Name="LED (green)" xpos="7864320" ypos="1081344" rot="0" key="138737" />
+    <Chip Name="LED (red)" xpos="8224768" ypos="1081344" rot="0" key="258325" />
+    <Chip Name="Connection Pin" xpos="8224768" ypos="2555904" rot="0" key="233096" />
+    <Chip Name="Label (2pt)" xpos="1966080" ypos="983040" rot="0" key="45305">01FFFFFE000000064D6173746572</Chip>
+    <Chip Name="Label (2pt)" xpos="5931008" ypos="1048576" rot="0" key="4362">01FFFFFE00000005536C617665</Chip>
+    <Chip Name="Label (2pt)" xpos="5472256" ypos="1212416" rot="0" key="13040">01FFFFFE000000174A4B2D4646202866616C6C656E646520466C616E6B6529</Chip>
+    <Chip Name="Label (2pt)" xpos="1540096" ypos="3342336" rot="0" key="128972">01FFFFFE0000002845696E6C6573656E20696E204D6173746572206D69740A5354454947454E44455220466C616E6B65</Chip>
+    <Chip Name="Label (2pt)" xpos="5636096" ypos="3342336" rot="0" key="113596">01FFFFFE00000029417573676562656E20647572636820536C617665206D69740A46414C4C454E44455220466C616E6B65</Chip>
+    <Chip Name="Label (2pt)" xpos="229376" ypos="1376256" rot="0" key="444386">01FFFFFE00000003534554</Chip>
+    <Chip Name="Label (2pt)" xpos="131072" ypos="2752512" rot="0" key="453385">01FFFFFE000000055245534554</Chip>
+    <Chip Name="Connection Pin" xpos="7077888" ypos="1769472" rot="0" key="419131" />
+    <Chip Name="Connection Pin" xpos="7077888" ypos="2588672" rot="0" key="420777" />
+    <Chip Name="Connection Pin" xpos="7110656" ypos="2752512" rot="0" key="400830" />
+    <Chip Name="Connection Pin" xpos="7110656" ypos="2129920" rot="0" key="393480" />
+    <Wire chip1="0" pad1="1" chip2="1" pad2="1" key="1110490" />
+    <Wire chip1="2" pad1="0" chip2="3" pad2="1" key="1110490" />
+    <Wire chip1="2" pad1="1" chip2="20" pad2="0" key="1110490" />
+    <Wire chip1="1" pad1="2" chip2="4" pad2="0" key="1110490" />
+    <Wire chip1="2" pad1="2" chip2="5" pad2="1" key="1110490" />
+    <Wire chip1="8" pad1="2" chip2="28" pad2="0" key="1110490" />
+    <Wire chip1="7" pad1="0" chip2="33" pad2="0" key="1110490" />
+    <Wire chip1="8" pad1="1" chip2="31" pad2="0" key="1110490" />
+    <Wire chip1="3" pad1="0" chip2="10" pad2="1" key="1110490" />
+    <Wire chip1="10" pad1="0" chip2="11" pad2="1" key="1110490" />
+    <Wire chip1="6" pad1="0" chip2="16" pad2="0" key="1110490" />
+    <Wire chip1="12" pad1="0" chip2="13" pad2="1" key="1110490" />
+    <Wire chip1="12" pad1="1" chip2="0" pad2="0" key="1110490" />
+    <Wire chip1="1" pad1="0" chip2="22" pad2="0" key="1110490" />
+    <Wire chip1="15" pad1="0" chip2="17" pad2="0" key="1110490" />
+    <Wire chip1="16" pad1="0" chip2="19" pad2="0" key="1110490" />
+    <Wire chip1="17" pad1="0" chip2="13" pad2="0" key="1110490" />
+    <Wire chip1="17" pad1="0" chip2="18" pad2="0" key="1110490" />
+    <Wire chip1="18" pad1="0" chip2="11" pad2="0" key="1110490" />
+    <Wire chip1="19" pad1="0" chip2="11" pad2="0" key="1110490" />
+    <Wire chip1="20" pad1="0" chip2="6" pad2="0" key="1110490" />
+    <Wire chip1="21" pad1="0" chip2="15" pad2="0" key="1110490" />
+    <Wire chip1="22" pad1="0" chip2="21" pad2="0" key="1110490" />
+    <Wire chip1="23" pad1="0" chip2="25" pad2="0" key="1110490" />
+    <Wire chip1="7" pad1="2" chip2="71" pad2="0" key="1110490" />
+    <Wire chip1="24" pad1="0" chip2="8" pad2="0" key="1110490" />
+    <Wire chip1="25" pad1="0" chip2="24" pad2="0" key="1110490" />
+    <Wire chip1="26" pad1="0" chip2="7" pad2="1" key="1110490" />
+    <Wire chip1="27" pad1="0" chip2="26" pad2="0" key="1110490" />
+    <Wire chip1="28" pad1="0" chip2="29" pad2="0" key="1110490" />
+    <Wire chip1="29" pad1="0" chip2="27" pad2="0" key="1110490" />
+    <Wire chip1="30" pad1="0" chip2="5" pad2="2" key="1110490" />
+    <Wire chip1="32" pad1="0" chip2="4" pad2="2" key="1110490" />
+    <Wire chip1="1" pad1="2" chip2="34" pad2="0" key="1110490" />
+    <Wire chip1="34" pad1="0" chip2="9" pad2="0" key="1110490" />
+    <Wire chip1="14" pad1="0" chip2="35" pad2="0" key="1110490" />
+    <Wire chip1="35" pad1="0" chip2="19" pad2="0" key="1110490" />
+    <Wire chip1="36" pad1="0" chip2="37" pad2="0" key="1110490" />
+    <Wire chip1="37" pad1="0" chip2="5" pad2="0" key="1110490" />
+    <Wire chip1="39" pad1="2" chip2="44" pad2="0" key="1110490" />
+    <Wire chip1="41" pad1="0" chip2="42" pad2="0" key="1110490" />
+    <Wire chip1="42" pad1="0" chip2="4" pad2="1" key="1110490" />
+    <Wire chip1="43" pad1="0" chip2="41" pad2="0" key="1110490" />
+    <Wire chip1="44" pad1="0" chip2="43" pad2="0" key="1110490" />
+    <Wire chip1="40" pad1="2" chip2="46" pad2="0" key="1110490" />
+    <Wire chip1="45" pad1="0" chip2="36" pad2="0" key="1110490" />
+    <Wire chip1="46" pad1="0" chip2="45" pad2="0" key="1110490" />
+    <Wire chip1="47" pad1="0" chip2="48" pad2="0" key="1110490" />
+    <Wire chip1="48" pad1="0" chip2="40" pad2="1" key="1110490" />
+    <Wire chip1="49" pad1="0" chip2="50" pad2="0" key="1110490" />
+    <Wire chip1="50" pad1="0" chip2="39" pad2="0" key="1110490" />
+    <Wire chip1="51" pad1="0" chip2="49" pad2="0" key="1110490" />
+    <Wire chip1="52" pad1="0" chip2="58" pad2="0" key="1110490" />
+    <Wire chip1="40" pad1="0" chip2="57" pad2="0" key="1110490" />
+    <Wire chip1="54" pad1="0" chip2="47" pad2="0" key="1110490" />
+    <Wire chip1="14" pad1="0" chip2="56" pad2="0" key="1087857" />
+    <Wire chip1="56" pad1="0" chip2="55" pad2="0" key="1085282" />
+    <Wire chip1="57" pad1="0" chip2="53" pad2="0" key="1090165" />
+    <Wire chip1="58" pad1="0" chip2="39" pad2="1" key="1067357" />
+    <Wire chip1="33" pad1="0" chip2="30" pad2="0" key="42848" />
+    <Wire chip1="32" pad1="0" chip2="31" pad2="0" key="43243" />
+    <Wire chip1="51" pad1="0" chip2="66" pad2="0" key="12515" />
+    <Wire chip1="66" pad1="0" chip2="67" pad2="0" key="409503" />
+    <Wire chip1="67" pad1="0" chip2="28" pad2="0" key="495636" />
+    <Wire chip1="66" pad1="0" chip2="69" pad2="0" key="477477" />
+    <Wire chip1="54" pad1="0" chip2="68" pad2="0" key="324777" />
+    <Wire chip1="7" pad1="2" chip2="70" pad2="0" key="304765" />
+    <Wire chip1="70" pad1="0" chip2="68" pad2="0" key="303791" />
+    <Wire chip1="71" pad1="0" chip2="23" pad2="0" key="283192" />
+    <Wire chip1="70" pad1="0" chip2="72" pad2="1" key="785832" />
+    <Wire chip1="73" pad1="0" chip2="67" pad2="0" key="758097" />
+    <Wire chip1="75" pad1="0" chip2="74" pad2="1" key="567068" />
+    <Wire chip1="75" pad1="1" chip2="76" pad2="0" key="567740" />
+    <Wire chip1="76" pad1="1" chip2="81" pad2="1" key="548379" />
+    <Wire chip1="77" pad1="1" chip2="78" pad2="0" key="553129" />
+    <Wire chip1="78" pad1="1" chip2="79" pad2="0" key="555467" />
+    <Wire chip1="79" pad1="1" chip2="82" pad2="0" key="548892" />
+    <Wire chip1="74" pad1="0" chip2="80" pad2="1" key="535192" />
+    <Wire chip1="80" pad1="1" chip2="77" pad2="0" key="646221" />
+    <Wire chip1="81" pad1="0" chip2="83" pad2="0" key="652081" />
+    <Wire chip1="83" pad1="0" chip2="84" pad2="0" key="653799" />
+    <Wire chip1="84" pad1="0" chip2="74" pad2="0" key="649819" />
+    <Wire chip1="82" pad1="1" chip2="85" pad2="0" key="638024" />
+    <Wire chip1="85" pad1="0" chip2="86" pad2="0" key="632161" />
+    <Wire chip1="86" pad1="0" chip2="77" pad2="0" key="611993" />
+    <Wire chip1="80" pad1="0" chip2="35" pad2="0" key="617318" />
+    <Wire chip1="81" pad1="2" chip2="87" pad2="0" key="970917" />
+    <Wire chip1="89" pad1="0" chip2="82" pad2="2" key="849594" />
+    <Wire chip1="89" pad1="1" chip2="94" pad2="0" key="850056" />
+    <Wire chip1="94" pad1="0" chip2="95" pad2="0" key="825144" />
+    <Wire chip1="95" pad1="0" chip2="73" pad2="2" key="835130" />
+    <Wire chip1="81" pad1="2" chip2="88" pad2="1" key="811980" />
+    <Wire chip1="88" pad1="0" chip2="96" pad2="0" key="791927" />
+    <Wire chip1="96" pad1="0" chip2="97" pad2="0" key="794337" />
+    <Wire chip1="97" pad1="0" chip2="72" pad2="2" key="800684" />
+    <Wire chip1="88" pad1="2" chip2="114" pad2="0" key="915819" />
+    <Wire chip1="89" pad1="2" chip2="116" pad2="0" key="900756" />
+    <Wire chip1="90" pad1="1" chip2="91" pad2="2" key="874558" />
+    <Wire chip1="90" pad1="2" chip2="91" pad2="0" key="872130" />
+    <Wire chip1="91" pad1="2" chip2="100" pad2="0" key="864714" />
+    <Wire chip1="98" pad1="0" chip2="72" pad2="0" key="866526" />
+    <Wire chip1="99" pad1="0" chip2="98" pad2="0" key="185416" />
+    <Wire chip1="100" pad1="0" chip2="99" pad2="0" key="180527" />
+    <Wire chip1="90" pad1="2" chip2="101" pad2="0" key="190337" />
+    <Wire chip1="101" pad1="0" chip2="102" pad2="0" key="192260" />
+    <Wire chip1="102" pad1="0" chip2="103" pad2="0" key="170451" />
+    <Wire chip1="103" pad1="0" chip2="73" pad2="1" key="179962" />
+    <Wire chip1="101" pad1="0" chip2="104" pad2="0" key="142630" />
+    <Wire chip1="100" pad1="0" chip2="106" pad2="0" key="256360" />
+    <Wire chip1="106" pad1="0" chip2="105" pad2="0" key="233096" />
+    <Wire chip1="114" pad1="0" chip2="115" pad2="0" key="419131" />
+    <Wire chip1="115" pad1="0" chip2="91" pad2="1" key="420777" />
+    <Wire chip1="116" pad1="0" chip2="117" pad2="0" key="400830" />
+    <Wire chip1="117" pad1="0" chip2="90" pad2="0" key="393480" />
+</Atanua>
